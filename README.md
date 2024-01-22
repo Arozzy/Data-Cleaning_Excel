@@ -1,8 +1,7 @@
 # Data-Cleaning_Excel
 
-The dataset is a supplier's invoice statement that contains supplier’s information for a company that sells motorcycles. 
-The data contains some strange numbers, inappropriate date format, excess spaces and  wrong amount format.  
-I used functions such as TRIM, CLEAN, CONCAT, TEXTJOIN, LEFT, RIGHT, MID, VALUE, and SUBSTITUTE.
+The dataset comprises the supplier's invoice statement for motorcycle sales, which contains irregular numbers, inappropriate date formats, excessive spaces, and incorrect amount formats. 
+Functions such as TRIM, CLEAN, CONCAT, TEXTJOIN, LEFT, RIGHT, MID, VALUE, and SUBSTITUTE were utilized to clean the data.
 
 Task: Clean the dataset with Microsoft Excel and complete the table
 
